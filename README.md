@@ -43,7 +43,7 @@ If you have no experience on doing web pages this is a pretty good option, you c
 
 # **One Step Further**
 1. You can use [Github Pages Deploy Command:](https://www.mkdocs.org/user-guide/deploying-your-docs/) **mkdocs gh-deploy** inside the Git Bash.
-2. This creates a new branch with all the HTML, JS, CSS, ... and this allows us to turn off the virtual enviroment and access by a link like *https://**username**.github.io/**repository_name**/*, on this case is [https://hectorcrzbq.github.io/Hector.github.io/](https://hectorcrzbq.github.io/Hector.github.io/) that allows access using the servers of github pages
+2. This creates a new branch with all the HTML, JS, CSS, ... and this allows us to turn off the virtual enviroment and access by a link like *https://**username**.github.io/**repository_name**/*, on this case is [https://hectorcrzbq.github.io/webpage/](https://hectorcrzbq.github.io/webpage/) that allows access using the servers of github pages
 
 # Contact Sources
 <div align="center">
